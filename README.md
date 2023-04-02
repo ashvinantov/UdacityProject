@@ -18,7 +18,7 @@ Steps Involved
 4. Create a linear regression model and try to predict the prices
 5. Analyze the rsquare value and confirm if this model can be taken forward
 
-Link to Medium BLog post is shared hereby --> https://medium.com/@ashvinantov/udacityproject-2902f062d8a9
+Link to Medium BLog post is shared hereby --> [https://medium.com/@ashvinantov/udacityproject-2902f062d8a9](https://medium.com/@ashvinantov/udacityproject-2902f062d8a9)
 
 * Business Understanding
 * Data Understanding
