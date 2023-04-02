@@ -64,3 +64,7 @@ Packages used-
 6. sklearn.linear_model
 7. sklearn.metrics
 
+Acknowledgement
+1. https://www.kaggle.com/airbnb/boston
+2. Udacity Nanodegree Course offered by NatWest Group
+
