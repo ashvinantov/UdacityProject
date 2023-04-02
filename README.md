@@ -52,7 +52,7 @@ Link to Medium BLog post is shared hereby --> [https://medium.com/@ashvinantov/u
     - Explain the visualisation - Guest houses and boats as obvious have the highest average pricing.
                                    Villas and apartments are also showing a decent pricing  
 * Evaluation
-    - Findings
+    - Evaluations have been explained for each question
 
 
 Packages used-
