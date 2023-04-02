@@ -53,3 +53,14 @@ Link to Medium BLog post is shared hereby --> https://medium.com/@ashvinantov/ud
                                    Villas and apartments are also showing a decent pricing  
 * Evaluation
     - Findings
+
+
+Packages used-
+1. pandas
+2. numpy
+3. seaborn
+4. matplotlib.pyplot
+5. sklearn.model_selection
+6. sklearn.linear_model
+7. sklearn.metrics
+
