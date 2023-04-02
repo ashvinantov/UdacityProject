@@ -20,3 +20,5 @@ Steps Involved
 3. Create a correlation plot to analyze which are the most relevant features which answers my question1
 4. Create a linear regression model and try to predict the prices
 5. Analyze the rsquare value and confirm if this model can be taken forward
+
+Link to Medium BLog post is shared hereby
